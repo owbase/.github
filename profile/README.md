@@ -2,30 +2,30 @@
   <img src="https://cloud.owbase.dev/_owbase/brand/logo-email.png" alt="Owbase" height="56">
 </p>
 
-<p align="center"><strong>Backend como serviço da Openwave.</strong><br>
-Banco de dados, autenticação, storage, functions, sites e mensagens em um só lugar, com infraestrutura no Brasil.</p>
+<p align="center"><strong>Backend as a service by Openwave.</strong><br>
+Database, authentication, storage, functions, sites and messaging in one place, hosted in Brazil.</p>
 
 <p align="center">
-  <a href="https://owbase.dev">Site</a> ·
-  <a href="https://docs.owbase.dev">Documentação</a> ·
+  <a href="https://owbase.dev">Website</a> ·
+  <a href="https://docs.owbase.dev">Docs</a> ·
   <a href="https://cloud.owbase.dev">Console</a>
 </p>
 
-## Comece
+## Get started
 
 ```bash
-npm i @owbase/web          # apps web
-npm i @owbase/node         # servidores e functions
+npm i @owbase/web          # web apps
+npm i @owbase/node         # servers and functions
 npm i -g @owbase/cli       # CLI: owbase login, init, push
 ```
 
-- **Banco de dados** com tabelas, relações, permissões por linha e tempo real.
-- **Autenticação** por e-mail, link mágico, código, telefone (SMS), MFA e passkey.
-- **Storage** com buckets, permissões e links de compartilhamento.
-- **Functions** em Node.js e **Sites** estáticos ou SSR, com domínio próprio.
-- **Mensagens** por e-mail e SMS da Openwave.
-- **MCP**: use o Owbase direto do seu assistente de IA.
+- **Database** with tables, relationships, row-level permissions and realtime.
+- **Authentication** with email, magic link, one-time code, phone (SMS), MFA and passkeys.
+- **Storage** with buckets, permissions and share links.
+- **Functions** on Node.js and static or SSR **Sites**, with custom domains.
+- **Messaging** by email and SMS through Openwave.
+- **MCP**: use Owbase straight from your AI assistant.
 
-O acesso é por convite. Fale com a gente: [suporte@owbase.dev](mailto:suporte@owbase.dev).
+Access is by invitation. Talk to us: [suporte@owbase.dev](mailto:suporte@owbase.dev).
 
-<sub>Owbase é um produto da Openwave · Orbital Tecnologia (CNPJ 29.383.276/0001-88)</sub>
+<sub>Owbase is an Openwave product · Orbital Tecnologia (CNPJ 29.383.276/0001-88)</sub>
